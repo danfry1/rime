@@ -1,0 +1,67 @@
+# Rime (dark)
+# https://github.com/danfry1/theme-template
+
+[colors]
+foreground = "#cdd9e5"
+background = "#0c1118"
+cursor_bg = "#c49ab0"
+cursor_fg = "#0c1118"
+cursor_border = "#c49ab0"
+selection_fg = "#cdd9e5"
+selection_bg = "#1f2835"
+scrollbar_thumb = "#293343"
+split = "#1f2835"
+compose_cursor = "#d4c28c"
+ansi = [
+  "#4a5568",
+  "#cc8e84",
+  "#98d4c4",
+  "#d4c28c",
+  "#82bce0",
+  "#a6a6d4",
+  "#7ec4be",
+  "#a6b3c2",
+]
+brights = [
+  "#68748a",
+  "#c49ab0",
+  "#aadcce",
+  "#d8c4a0",
+  "#9ccaea",
+  "#bcbce0",
+  "#98d4cc",
+  "#cdd9e5",
+]
+
+[colors.tab_bar]
+background = "#07090f"
+
+[colors.tab_bar.active_tab]
+bg_color = "#0c1118"
+fg_color = "#cdd9e5"
+intensity = "Normal"
+underline = "None"
+italic = false
+strikethrough = false
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#0a0d13"
+fg_color = "#7d8a9c"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#161d28"
+fg_color = "#a6b3c2"
+italic = true
+
+[colors.tab_bar.new_tab]
+bg_color = "#07090f"
+fg_color = "#7d8a9c"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#161d28"
+fg_color = "#cdd9e5"
+italic = true
+
+[metadata]
+name = "Rime"
+origin_url = "https://github.com/danfry1/theme-template"

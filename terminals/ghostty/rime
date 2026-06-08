@@ -1,0 +1,27 @@
+# Rime (dark)
+# https://github.com/danfry1/theme-template
+
+background = 0c1118
+foreground = cdd9e5
+cursor-color = c49ab0
+cursor-text = 0c1118
+selection-background = 1f2835
+selection-foreground = cdd9e5
+
+# ANSI colors
+palette = 0=4a5568
+palette = 1=cc8e84
+palette = 2=98d4c4
+palette = 3=d4c28c
+palette = 4=82bce0
+palette = 5=a6a6d4
+palette = 6=7ec4be
+palette = 7=a6b3c2
+palette = 8=68748a
+palette = 9=c49ab0
+palette = 10=aadcce
+palette = 11=d8c4a0
+palette = 12=9ccaea
+palette = 13=bcbce0
+palette = 14=98d4cc
+palette = 15=cdd9e5

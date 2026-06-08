@@ -1,0 +1,29 @@
+# Rime (dark)
+# https://github.com/danfry1/theme-template
+
+gui:
+  theme:
+    activeBorderColor:
+      - "#a6a6d4"
+      - bold
+    inactiveBorderColor:
+      - "#1f2835"
+    searchingActiveBorderColor:
+      - "#d4c28c"
+      - bold
+    optionsTextColor:
+      - "#82bce0"
+    selectedLineBgColor:
+      - "#161d28"
+    cherryPickedCommitFgColor:
+      - "#82bce0"
+    cherryPickedCommitBgColor:
+      - "#a6a6d4"
+    markedBaseCommitFgColor:
+      - "#82bce0"
+    markedBaseCommitBgColor:
+      - "#d4c28c"
+    unstagedChangesColor:
+      - "#cc8e84"
+    defaultFgColor:
+      - "#cdd9e5"

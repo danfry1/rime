@@ -2,49 +2,49 @@
   "name": "Rime",
   "variant": "dark",
   "backgrounds": {
-    "shadow": "#0a0814",
-    "dim": "#0e0c18",
-    "base": "#12101e",
-    "surface0": "#1e1a2c",
-    "surface1": "#262236",
-    "surface2": "#302c42"
+    "shadow": "#07090f",
+    "dim": "#0a0d13",
+    "base": "#0c1118",
+    "surface0": "#161d28",
+    "surface1": "#1f2835",
+    "surface2": "#293343"
   },
   "foregrounds": {
-    "text": "#d8d0e4",
-    "subtext": "#b0a8c4",
-    "overlay": "#8a8498",
-    "comment": "#7e7896"
+    "text": "#cdd9e5",
+    "subtext": "#a6b3c2",
+    "overlay": "#7d8a9c",
+    "comment": "#5f6b7e"
   },
   "accents": {
-    "keyword": "#b8a0e0",
-    "operator": "#d0a0b8",
-    "type": "#e8b4a0",
-    "string": "#a0d4a8",
-    "func": "#8cc0e0",
-    "tag": "#88c0b8",
-    "error": "#c49080",
-    "number": "#c4b080"
+    "keyword": "#a6a6d4",
+    "func": "#82bce0",
+    "type": "#cdbb9a",
+    "string": "#98d4c4",
+    "number": "#d4c28c",
+    "operator": "#c49ab0",
+    "tag": "#7ec4be",
+    "error": "#cc8e84"
   },
   "ansi": {
-    "black": "#56526c",
-    "red": "#c49080",
-    "green": "#a0d4a8",
-    "yellow": "#c4b080",
-    "blue": "#8cc0e0",
-    "magenta": "#b8a0e0",
-    "cyan": "#88c0b8",
-    "white": "#b0a8c4",
-    "brightBlack": "#68647e",
-    "brightRed": "#d0a0b8",
-    "brightGreen": "#a8d4b8",
-    "brightYellow": "#e8b4a0",
-    "brightBlue": "#a0c8e0",
-    "brightMagenta": "#c4b0e0",
-    "brightCyan": "#a0d4cc",
-    "brightWhite": "#d8d0e4"
+    "black": "#4a5568",
+    "red": "#cc8e84",
+    "green": "#98d4c4",
+    "yellow": "#d4c28c",
+    "blue": "#82bce0",
+    "magenta": "#a6a6d4",
+    "cyan": "#7ec4be",
+    "white": "#a6b3c2",
+    "brightBlack": "#68748a",
+    "brightRed": "#c49ab0",
+    "brightGreen": "#aadcce",
+    "brightYellow": "#d8c4a0",
+    "brightBlue": "#9ccaea",
+    "brightMagenta": "#bcbce0",
+    "brightCyan": "#98d4cc",
+    "brightWhite": "#cdd9e5"
   },
   "special": {
-    "cursor": "#d0a0b8",
-    "selection": "#262236"
+    "cursor": "#c49ab0",
+    "selection": "#1f2835"
   }
 }

@@ -1,0 +1,56 @@
+# Rime (dark)
+[colors.primary]
+foreground = "#cdd9e5"
+background = "#0c1118"
+
+[colors.cursor]
+text = "#0c1118"
+cursor = "#c49ab0"
+
+[colors.vi_mode_cursor]
+text = "#0c1118"
+cursor = "#a6a6d4"
+
+[colors.selection]
+text = "CellForeground"
+background = "#1f2835"
+
+[colors.search.matches]
+foreground = "#0c1118"
+background = "#d4c28c"
+
+[colors.search.focused_match]
+foreground = "#0c1118"
+background = "#cdbb9a"
+
+[colors.hints.start]
+foreground = "#0c1118"
+background = "#d4c28c"
+
+[colors.hints.end]
+foreground = "#0c1118"
+background = "#82bce0"
+
+[colors.footer_bar]
+foreground = "#cdd9e5"
+background = "#0a0d13"
+
+[colors.normal]
+black = "#4a5568"
+red = "#cc8e84"
+green = "#98d4c4"
+yellow = "#d4c28c"
+blue = "#82bce0"
+magenta = "#a6a6d4"
+cyan = "#7ec4be"
+white = "#a6b3c2"
+
+[colors.bright]
+black = "#68748a"
+red = "#c49ab0"
+green = "#aadcce"
+yellow = "#d8c4a0"
+blue = "#9ccaea"
+magenta = "#bcbce0"
+cyan = "#98d4cc"
+white = "#cdd9e5"

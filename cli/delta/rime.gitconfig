@@ -1,0 +1,23 @@
+# Rime (dark)
+# Add to your .gitconfig: [include] path = /path/to/rime.gitconfig
+
+[delta "rime"]
+    dark = true
+    syntax-theme = none
+    file-style = "#cdd9e5" bold
+    file-decoration-style = "#1f2835" ul
+    hunk-header-style = "#7d8a9c"
+    hunk-header-decoration-style = "#1f2835" ul
+    minus-style = syntax "#161d28"
+    minus-emph-style = syntax bold "#1f2835"
+    plus-style = syntax "#161d28"
+    plus-emph-style = syntax bold "#1f2835"
+    minus-non-emph-style = syntax "#0c1118"
+    plus-non-emph-style = syntax "#0c1118"
+    line-numbers = true
+    line-numbers-minus-style = "#cc8e84"
+    line-numbers-plus-style = "#98d4c4"
+    line-numbers-zero-style = "#7d8a9c"
+    line-numbers-left-style = "#1f2835"
+    line-numbers-right-style = "#1f2835"
+    blame-palette = "#0c1118 #161d28 #0a0d13 #1f2835"

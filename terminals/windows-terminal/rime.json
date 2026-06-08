@@ -1,0 +1,23 @@
+{
+  "name": "Rime",
+  "background": "#0c1118",
+  "foreground": "#cdd9e5",
+  "cursorColor": "#c49ab0",
+  "selectionBackground": "#1f2835",
+  "black": "#4a5568",
+  "red": "#cc8e84",
+  "green": "#98d4c4",
+  "yellow": "#d4c28c",
+  "blue": "#82bce0",
+  "purple": "#a6a6d4",
+  "cyan": "#7ec4be",
+  "white": "#a6b3c2",
+  "brightBlack": "#68748a",
+  "brightRed": "#c49ab0",
+  "brightGreen": "#aadcce",
+  "brightYellow": "#d8c4a0",
+  "brightBlue": "#9ccaea",
+  "brightPurple": "#bcbce0",
+  "brightCyan": "#98d4cc",
+  "brightWhite": "#cdd9e5"
+}

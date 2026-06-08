@@ -2,7 +2,7 @@
 # Loads the colorscheme headlessly; exits non-zero on any Lua error.
 set -euo pipefail
 SLUG="$(bun -e 'console.log(require("./palette.json").name.toLowerCase().replace(/[^a-z0-9]+/g,"-"))')"
-nvim --headless -u NONE \
+NVIM_LOG_FILE="${TMPDIR:-/tmp}/nvim-smoke.log" nvim --headless -u NONE -i NONE \
   --cmd "set rtp+=$(pwd)" \
   -c "lua vim.g.colors_name=nil" \
   -c "colorscheme ${SLUG}" \

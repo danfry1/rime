@@ -1,15 +1,16 @@
 {
-  "name": "theme-template",
+  "name": "rime",
   "version": "0.1.0",
-  "description": "Generate terminal, editor, and CLI color themes from a single role-based palette.json",
+  "description": "A muted, cool-toned dark theme for editors, terminals, and CLI tools",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danfry1/theme-template.git"
+    "url": "git+https://github.com/danfry1/rime.git"
   },
-  "homepage": "https://github.com/danfry1/theme-template",
+  "homepage": "https://github.com/danfry1/rime",
   "bugs": {
-    "url": "https://github.com/danfry1/theme-template/issues"
+    "url": "https://github.com/danfry1/rime/issues"
   },
+  "packageManager": "bun@1.3.14",
   "scripts": {
     "generate": "bun scripts/generate.ts",
     "init-theme": "bun run scripts/init-theme.ts",
@@ -24,11 +25,11 @@
     "bun": ">=1.0.0"
   },
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "4.2.0"
   },
   "devDependencies": {
-    "@types/mustache": "^4.2.6",
-    "bun-types": "^1.3.11",
-    "typescript": "^5.9.3"
+    "@types/mustache": "4.2.6",
+    "bun-types": "1.3.14",
+    "typescript": "6.0.3"
   }
 }

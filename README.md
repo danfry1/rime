@@ -5,6 +5,10 @@
   Built for Neovim, VS Code, Zed, terminals, tmux, and CLI tools.
 </p>
 
+<p align="center">
+  <img src="assets/screenshot.png" width="720" alt="Rime theme — example.tsx" />
+</p>
+
 ## Features
 
 - **Single source of truth** — every color lives in `palette.json`, all outputs are generated
